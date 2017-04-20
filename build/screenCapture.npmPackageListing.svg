@@ -1,145 +1,145 @@
 <svg height="2270" width="720" xmlns="http://www.w3.org/2000/svg">
 <rect height="2270" fill="#555" width="720"></rect>
 <text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
-<tspan x="10" y="26">  0.  2017-04-20 17:19:32 +0000   681703 bytes  .</tspan>
-<tspan x="10" y="42">  1.  2017-04-20 17:19:32 +0000     1098 bytes  LICENSE</tspan>
-<tspan x="10" y="58">  2.  2017-04-20 17:19:32 +0000     8980 bytes  README.md</tspan>
-<tspan x="10" y="74">  3.  2017-04-20 17:19:32 +0000   114349 bytes  dist/most.js</tspan>
-<tspan x="10" y="90">  4.  2017-04-20 17:19:32 +0000   235682 bytes  dist/most.js.map</tspan>
-<tspan x="10" y="106">  5.  2017-04-20 17:19:32 +0000    43486 bytes  dist/most.min.js</tspan>
-<tspan x="10" y="122">  6.  2017-04-20 17:19:32 +0000     1690 bytes  lib/LinkedList.js</tspan>
-<tspan x="10" y="138">  7.  2017-04-20 17:19:32 +0000      349 bytes  lib/Promise.js</tspan>
-<tspan x="10" y="154">  8.  2017-04-20 17:19:32 +0000     1474 bytes  lib/Queue.js</tspan>
-<tspan x="10" y="170">  9.  2017-04-20 17:19:32 +0000      292 bytes  lib/Stream.js</tspan>
-<tspan x="10" y="186"> 10.  2017-04-20 17:19:32 +0000     3269 bytes  lib/combinator/accumulate.js</tspan>
-<tspan x="10" y="202"> 11.  2017-04-20 17:19:32 +0000      861 bytes  lib/combinator/applicative.js</tspan>
-<tspan x="10" y="218"> 12.  2017-04-20 17:19:32 +0000      852 bytes  lib/combinator/build.js</tspan>
-<tspan x="10" y="234"> 13.  2017-04-20 17:19:32 +0000     4137 bytes  lib/combinator/combine.js</tspan>
-<tspan x="10" y="250"> 14.  2017-04-20 17:19:32 +0000      881 bytes  lib/combinator/concatMap.js</tspan>
-<tspan x="10" y="266"> 15.  2017-04-20 17:19:32 +0000     2184 bytes  lib/combinator/continueWith.js</tspan>
-<tspan x="10" y="282"> 16.  2017-04-20 17:19:32 +0000     2145 bytes  lib/combinator/delay.js</tspan>
-<tspan x="10" y="298"> 17.  2017-04-20 17:19:32 +0000     3302 bytes  lib/combinator/errors.js</tspan>
-<tspan x="10" y="314"> 18.  2017-04-20 17:19:32 +0000     2472 bytes  lib/combinator/filter.js</tspan>
-<tspan x="10" y="330"> 19.  2017-04-20 17:19:32 +0000     1128 bytes  lib/combinator/flatMap.js</tspan>
-<tspan x="10" y="346"> 20.  2017-04-20 17:19:32 +0000     3991 bytes  lib/combinator/limit.js</tspan>
-<tspan x="10" y="362"> 21.  2017-04-20 17:19:32 +0000     1882 bytes  lib/combinator/loop.js</tspan>
-<tspan x="10" y="378"> 22.  2017-04-20 17:19:32 +0000     3508 bytes  lib/combinator/merge.js</tspan>
-<tspan x="10" y="394"> 23.  2017-04-20 17:19:32 +0000     3830 bytes  lib/combinator/mergeConcurrently.js</tspan>
-<tspan x="10" y="410"> 24.  2017-04-20 17:19:32 +0000     1149 bytes  lib/combinator/observe.js</tspan>
-<tspan x="10" y="426"> 25.  2017-04-20 17:19:32 +0000     2693 bytes  lib/combinator/promises.js</tspan>
-<tspan x="10" y="442"> 26.  2017-04-20 17:19:32 +0000     3697 bytes  lib/combinator/sample.js</tspan>
-<tspan x="10" y="458"> 27.  2017-04-20 17:19:32 +0000     4981 bytes  lib/combinator/slice.js</tspan>
-<tspan x="10" y="474"> 28.  2017-04-20 17:19:32 +0000     3400 bytes  lib/combinator/switch.js</tspan>
-<tspan x="10" y="490"> 29.  2017-04-20 17:19:32 +0000      284 bytes  lib/combinator/thru.js</tspan>
-<tspan x="10" y="506"> 30.  2017-04-20 17:19:32 +0000     3581 bytes  lib/combinator/timeslice.js</tspan>
-<tspan x="10" y="522"> 31.  2017-04-20 17:19:32 +0000     1059 bytes  lib/combinator/timestamp.js</tspan>
-<tspan x="10" y="538"> 32.  2017-04-20 17:19:32 +0000     3347 bytes  lib/combinator/transduce.js</tspan>
-<tspan x="10" y="554"> 33.  2017-04-20 17:19:32 +0000     2005 bytes  lib/combinator/transform.js</tspan>
-<tspan x="10" y="570"> 34.  2017-04-20 17:19:32 +0000     4370 bytes  lib/combinator/zip.js</tspan>
-<tspan x="10" y="586"> 35.  2017-04-20 17:19:32 +0000      612 bytes  lib/disposable/Disposable.js</tspan>
-<tspan x="10" y="602"> 36.  2017-04-20 17:19:32 +0000      986 bytes  lib/disposable/SettableDisposable.js</tspan>
-<tspan x="10" y="618"> 37.  2017-04-20 17:19:32 +0000     3921 bytes  lib/disposable/dispose.js</tspan>
-<tspan x="10" y="634"> 38.  2017-04-20 17:19:32 +0000      320 bytes  lib/fatalError.js</tspan>
-<tspan x="10" y="650"> 39.  2017-04-20 17:19:32 +0000     1385 bytes  lib/fusion/Filter.js</tspan>
-<tspan x="10" y="666"> 40.  2017-04-20 17:19:32 +0000      988 bytes  lib/fusion/FilterMap.js</tspan>
-<tspan x="10" y="682"> 41.  2017-04-20 17:19:32 +0000     2007 bytes  lib/fusion/Map.js</tspan>
-<tspan x="10" y="698"> 42.  2017-04-20 17:19:32 +0000    27281 bytes  lib/index.js</tspan>
-<tspan x="10" y="714"> 43.  2017-04-20 17:19:32 +0000      683 bytes  lib/invoke.js</tspan>
-<tspan x="10" y="730"> 44.  2017-04-20 17:19:32 +0000      915 bytes  lib/iterable.js</tspan>
-<tspan x="10" y="746"> 45.  2017-04-20 17:19:32 +0000     2028 bytes  lib/observable/fromObservable.js</tspan>
-<tspan x="10" y="762"> 46.  2017-04-20 17:19:32 +0000      868 bytes  lib/observable/getObservable.js</tspan>
-<tspan x="10" y="778"> 47.  2017-04-20 17:19:32 +0000     2645 bytes  lib/observable/subscribe.js</tspan>
-<tspan x="10" y="794"> 48.  2017-04-20 17:19:32 +0000     2006 bytes  lib/runSource.js</tspan>
-<tspan x="10" y="810"> 49.  2017-04-20 17:19:32 +0000      936 bytes  lib/scheduler/ClockTimer.js</tspan>
-<tspan x="10" y="826"> 50.  2017-04-20 17:19:32 +0000     1364 bytes  lib/scheduler/PropagateTask.js</tspan>
-<tspan x="10" y="842"> 51.  2017-04-20 17:19:32 +0000      710 bytes  lib/scheduler/ScheduledTask.js</tspan>
-<tspan x="10" y="858"> 52.  2017-04-20 17:19:32 +0000     2648 bytes  lib/scheduler/Scheduler.js</tspan>
-<tspan x="10" y="874"> 53.  2017-04-20 17:19:32 +0000     3247 bytes  lib/scheduler/Timeline.js</tspan>
-<tspan x="10" y="890"> 54.  2017-04-20 17:19:32 +0000      741 bytes  lib/scheduler/defaultScheduler.js</tspan>
-<tspan x="10" y="906"> 55.  2017-04-20 17:19:32 +0000     1946 bytes  lib/sink/DeferredSink.js</tspan>
-<tspan x="10" y="922"> 56.  2017-04-20 17:19:32 +0000      889 bytes  lib/sink/IndexSink.js</tspan>
-<tspan x="10" y="938"> 57.  2017-04-20 17:19:32 +0000      627 bytes  lib/sink/Pipe.js</tspan>
-<tspan x="10" y="954"> 58.  2017-04-20 17:19:32 +0000      732 bytes  lib/sink/SafeSink.js</tspan>
-<tspan x="10" y="970"> 59.  2017-04-20 17:19:32 +0000     2084 bytes  lib/source/EventEmitterSource.js</tspan>
-<tspan x="10" y="986"> 60.  2017-04-20 17:19:32 +0000     1293 bytes  lib/source/EventTargetSource.js</tspan>
-<tspan x="10" y="1002"> 61.  2017-04-20 17:19:32 +0000     2058 bytes  lib/source/core.js</tspan>
-<tspan x="10" y="1018"> 62.  2017-04-20 17:19:32 +0000     1318 bytes  lib/source/from.js</tspan>
-<tspan x="10" y="1034"> 63.  2017-04-20 17:19:32 +0000     1031 bytes  lib/source/fromArray.js</tspan>
-<tspan x="10" y="1050"> 64.  2017-04-20 17:19:32 +0000     1757 bytes  lib/source/fromEvent.js</tspan>
-<tspan x="10" y="1066"> 65.  2017-04-20 17:19:32 +0000     1133 bytes  lib/source/fromIterable.js</tspan>
-<tspan x="10" y="1082"> 66.  2017-04-20 17:19:32 +0000     2201 bytes  lib/source/generate.js</tspan>
-<tspan x="10" y="1098"> 67.  2017-04-20 17:19:32 +0000     1716 bytes  lib/source/iterate.js</tspan>
-<tspan x="10" y="1114"> 68.  2017-04-20 17:19:32 +0000     1168 bytes  lib/source/periodic.js</tspan>
-<tspan x="10" y="1130"> 69.  2017-04-20 17:19:32 +0000      477 bytes  lib/source/tryEvent.js</tspan>
-<tspan x="10" y="1146"> 70.  2017-04-20 17:19:32 +0000     2105 bytes  lib/source/unfold.js</tspan>
-<tspan x="10" y="1162"> 71.  2017-04-20 17:19:32 +0000      440 bytes  lib/task.js</tspan>
-<tspan x="10" y="1178"> 72.  2017-04-20 17:19:32 +0000     1604 bytes  package.json</tspan>
-<tspan x="10" y="1194"> 73.  2017-04-20 17:19:32 +0000     1570 bytes  src/LinkedList.js</tspan>
-<tspan x="10" y="1210"> 74.  2017-04-20 17:19:32 +0000      246 bytes  src/Promise.js</tspan>
-<tspan x="10" y="1226"> 75.  2017-04-20 17:19:32 +0000     1368 bytes  src/Queue.js</tspan>
-<tspan x="10" y="1242"> 76.  2017-04-20 17:19:32 +0000      202 bytes  src/Stream.js</tspan>
-<tspan x="10" y="1258"> 77.  2017-04-20 17:19:32 +0000     2479 bytes  src/combinator/accumulate.js</tspan>
-<tspan x="10" y="1274"> 78.  2017-04-20 17:19:32 +0000      743 bytes  src/combinator/applicative.js</tspan>
-<tspan x="10" y="1290"> 79.  2017-04-20 17:19:32 +0000      722 bytes  src/combinator/build.js</tspan>
-<tspan x="10" y="1306"> 80.  2017-04-20 17:19:32 +0000     3089 bytes  src/combinator/combine.js</tspan>
-<tspan x="10" y="1322"> 81.  2017-04-20 17:19:32 +0000      756 bytes  src/combinator/concatMap.js</tspan>
-<tspan x="10" y="1338"> 82.  2017-04-20 17:19:32 +0000     1504 bytes  src/combinator/continueWith.js</tspan>
-<tspan x="10" y="1354"> 83.  2017-04-20 17:19:32 +0000     1401 bytes  src/combinator/delay.js</tspan>
-<tspan x="10" y="1370"> 84.  2017-04-20 17:19:32 +0000     2396 bytes  src/combinator/errors.js</tspan>
-<tspan x="10" y="1386"> 85.  2017-04-20 17:19:32 +0000     1989 bytes  src/combinator/filter.js</tspan>
-<tspan x="10" y="1402"> 86.  2017-04-20 17:19:32 +0000      987 bytes  src/combinator/flatMap.js</tspan>
-<tspan x="10" y="1418"> 87.  2017-04-20 17:19:32 +0000     3123 bytes  src/combinator/limit.js</tspan>
-<tspan x="10" y="1434"> 88.  2017-04-20 17:19:32 +0000     1553 bytes  src/combinator/loop.js</tspan>
-<tspan x="10" y="1450"> 89.  2017-04-20 17:19:32 +0000     2676 bytes  src/combinator/merge.js</tspan>
-<tspan x="10" y="1466"> 90.  2017-04-20 17:19:32 +0000     3053 bytes  src/combinator/mergeConcurrently.js</tspan>
-<tspan x="10" y="1482"> 91.  2017-04-20 17:19:32 +0000      993 bytes  src/combinator/observe.js</tspan>
-<tspan x="10" y="1498"> 92.  2017-04-20 17:19:32 +0000     2276 bytes  src/combinator/promises.js</tspan>
-<tspan x="10" y="1514"> 93.  2017-04-20 17:19:32 +0000     2795 bytes  src/combinator/sample.js</tspan>
-<tspan x="10" y="1530"> 94.  2017-04-20 17:19:32 +0000     4037 bytes  src/combinator/slice.js</tspan>
-<tspan x="10" y="1546"> 95.  2017-04-20 17:19:32 +0000     2733 bytes  src/combinator/switch.js</tspan>
-<tspan x="10" y="1562"> 96.  2017-04-20 17:19:32 +0000      191 bytes  src/combinator/thru.js</tspan>
-<tspan x="10" y="1578"> 97.  2017-04-20 17:19:32 +0000     2779 bytes  src/combinator/timeslice.js</tspan>
-<tspan x="10" y="1594"> 98.  2017-04-20 17:19:32 +0000      717 bytes  src/combinator/timestamp.js</tspan>
-<tspan x="10" y="1610"> 99.  2017-04-20 17:19:32 +0000     3064 bytes  src/combinator/transduce.js</tspan>
-<tspan x="10" y="1626">100.  2017-04-20 17:19:32 +0000     1567 bytes  src/combinator/transform.js</tspan>
-<tspan x="10" y="1642">101.  2017-04-20 17:19:32 +0000     3298 bytes  src/combinator/zip.js</tspan>
-<tspan x="10" y="1658">102.  2017-04-20 17:19:32 +0000      515 bytes  src/disposable/Disposable.js</tspan>
-<tspan x="10" y="1674">103.  2017-04-20 17:19:32 +0000      870 bytes  src/disposable/SettableDisposable.js</tspan>
-<tspan x="10" y="1690">104.  2017-04-20 17:19:32 +0000     3097 bytes  src/disposable/dispose.js</tspan>
-<tspan x="10" y="1706">105.  2017-04-20 17:19:32 +0000      225 bytes  src/fatalError.js</tspan>
-<tspan x="10" y="1722">106.  2017-04-20 17:19:32 +0000     1115 bytes  src/fusion/Filter.js</tspan>
-<tspan x="10" y="1738">107.  2017-04-20 17:19:32 +0000      716 bytes  src/fusion/FilterMap.js</tspan>
-<tspan x="10" y="1754">108.  2017-04-20 17:19:32 +0000     1276 bytes  src/fusion/Map.js</tspan>
-<tspan x="10" y="1770">109.  2017-04-20 17:19:32 +0000    22065 bytes  src/index.js</tspan>
-<tspan x="10" y="1786">110.  2017-04-20 17:19:32 +0000      550 bytes  src/invoke.js</tspan>
-<tspan x="10" y="1802">111.  2017-04-20 17:19:32 +0000      750 bytes  src/iterable.js</tspan>
-<tspan x="10" y="1818">112.  2017-04-20 17:19:32 +0000     1320 bytes  src/observable/fromObservable.js</tspan>
-<tspan x="10" y="1834">113.  2017-04-20 17:19:32 +0000      582 bytes  src/observable/getObservable.js</tspan>
-<tspan x="10" y="1850">114.  2017-04-20 17:19:32 +0000     1874 bytes  src/observable/subscribe.js</tspan>
-<tspan x="10" y="1866">115.  2017-04-20 17:19:32 +0000     1326 bytes  src/runSource.js</tspan>
-<tspan x="10" y="1882">116.  2017-04-20 17:19:32 +0000      818 bytes  src/scheduler/ClockTimer.js</tspan>
-<tspan x="10" y="1898">117.  2017-04-20 17:19:32 +0000     1066 bytes  src/scheduler/PropagateTask.js</tspan>
-<tspan x="10" y="1914">118.  2017-04-20 17:19:32 +0000      602 bytes  src/scheduler/ScheduledTask.js</tspan>
-<tspan x="10" y="1930">119.  2017-04-20 17:19:32 +0000     2326 bytes  src/scheduler/Scheduler.js</tspan>
-<tspan x="10" y="1946">120.  2017-04-20 17:19:32 +0000     2734 bytes  src/scheduler/Timeline.js</tspan>
-<tspan x="10" y="1962">121.  2017-04-20 17:19:32 +0000      348 bytes  src/scheduler/defaultScheduler.js</tspan>
-<tspan x="10" y="1978">122.  2017-04-20 17:19:32 +0000     1766 bytes  src/sink/DeferredSink.js</tspan>
-<tspan x="10" y="1994">123.  2017-04-20 17:19:32 +0000      627 bytes  src/sink/IndexSink.js</tspan>
-<tspan x="10" y="2010">124.  2017-04-20 17:19:32 +0000      533 bytes  src/sink/Pipe.js</tspan>
-<tspan x="10" y="2026">125.  2017-04-20 17:19:32 +0000      626 bytes  src/sink/SafeSink.js</tspan>
-<tspan x="10" y="2042">126.  2017-04-20 17:19:32 +0000     1384 bytes  src/source/EventEmitterSource.js</tspan>
-<tspan x="10" y="2058">127.  2017-04-20 17:19:32 +0000      811 bytes  src/source/EventTargetSource.js</tspan>
-<tspan x="10" y="2074">128.  2017-04-20 17:19:32 +0000     1332 bytes  src/source/core.js</tspan>
-<tspan x="10" y="2090">129.  2017-04-20 17:19:32 +0000      884 bytes  src/source/from.js</tspan>
-<tspan x="10" y="2106">130.  2017-04-20 17:19:32 +0000      684 bytes  src/source/fromArray.js</tspan>
-<tspan x="10" y="2122">131.  2017-04-20 17:19:32 +0000     1310 bytes  src/source/fromEvent.js</tspan>
-<tspan x="10" y="2138">132.  2017-04-20 17:19:32 +0000      765 bytes  src/source/fromIterable.js</tspan>
-<tspan x="10" y="2154">133.  2017-04-20 17:19:32 +0000     1598 bytes  src/source/generate.js</tspan>
-<tspan x="10" y="2170">134.  2017-04-20 17:19:32 +0000     1441 bytes  src/source/iterate.js</tspan>
-<tspan x="10" y="2186">135.  2017-04-20 17:19:32 +0000      823 bytes  src/source/periodic.js</tspan>
-<tspan x="10" y="2202">136.  2017-04-20 17:19:32 +0000      356 bytes  src/source/tryEvent.js</tspan>
-<tspan x="10" y="2218">137.  2017-04-20 17:19:32 +0000     1831 bytes  src/source/unfold.js</tspan>
-<tspan x="10" y="2234">138.  2017-04-20 17:19:32 +0000      324 bytes  src/task.js</tspan>
-<tspan x="10" y="2250">139.  2017-04-20 17:19:32 +0000    12848 bytes  type-definitions/most.d.ts</tspan>
+<tspan x="10" y="26">  0.  2017-04-20 17:20:39 +0000   681703 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-20 17:20:39 +0000     1098 bytes  LICENSE</tspan>
+<tspan x="10" y="58">  2.  2017-04-20 17:20:39 +0000     8980 bytes  README.md</tspan>
+<tspan x="10" y="74">  3.  2017-04-20 17:20:39 +0000   114349 bytes  dist/most.js</tspan>
+<tspan x="10" y="90">  4.  2017-04-20 17:20:39 +0000   235682 bytes  dist/most.js.map</tspan>
+<tspan x="10" y="106">  5.  2017-04-20 17:20:39 +0000    43486 bytes  dist/most.min.js</tspan>
+<tspan x="10" y="122">  6.  2017-04-20 17:20:39 +0000     1690 bytes  lib/LinkedList.js</tspan>
+<tspan x="10" y="138">  7.  2017-04-20 17:20:39 +0000      349 bytes  lib/Promise.js</tspan>
+<tspan x="10" y="154">  8.  2017-04-20 17:20:39 +0000     1474 bytes  lib/Queue.js</tspan>
+<tspan x="10" y="170">  9.  2017-04-20 17:20:39 +0000      292 bytes  lib/Stream.js</tspan>
+<tspan x="10" y="186"> 10.  2017-04-20 17:20:39 +0000     3269 bytes  lib/combinator/accumulate.js</tspan>
+<tspan x="10" y="202"> 11.  2017-04-20 17:20:39 +0000      861 bytes  lib/combinator/applicative.js</tspan>
+<tspan x="10" y="218"> 12.  2017-04-20 17:20:39 +0000      852 bytes  lib/combinator/build.js</tspan>
+<tspan x="10" y="234"> 13.  2017-04-20 17:20:39 +0000     4137 bytes  lib/combinator/combine.js</tspan>
+<tspan x="10" y="250"> 14.  2017-04-20 17:20:39 +0000      881 bytes  lib/combinator/concatMap.js</tspan>
+<tspan x="10" y="266"> 15.  2017-04-20 17:20:39 +0000     2184 bytes  lib/combinator/continueWith.js</tspan>
+<tspan x="10" y="282"> 16.  2017-04-20 17:20:39 +0000     2145 bytes  lib/combinator/delay.js</tspan>
+<tspan x="10" y="298"> 17.  2017-04-20 17:20:39 +0000     3302 bytes  lib/combinator/errors.js</tspan>
+<tspan x="10" y="314"> 18.  2017-04-20 17:20:39 +0000     2472 bytes  lib/combinator/filter.js</tspan>
+<tspan x="10" y="330"> 19.  2017-04-20 17:20:39 +0000     1128 bytes  lib/combinator/flatMap.js</tspan>
+<tspan x="10" y="346"> 20.  2017-04-20 17:20:39 +0000     3991 bytes  lib/combinator/limit.js</tspan>
+<tspan x="10" y="362"> 21.  2017-04-20 17:20:39 +0000     1882 bytes  lib/combinator/loop.js</tspan>
+<tspan x="10" y="378"> 22.  2017-04-20 17:20:39 +0000     3508 bytes  lib/combinator/merge.js</tspan>
+<tspan x="10" y="394"> 23.  2017-04-20 17:20:39 +0000     3830 bytes  lib/combinator/mergeConcurrently.js</tspan>
+<tspan x="10" y="410"> 24.  2017-04-20 17:20:39 +0000     1149 bytes  lib/combinator/observe.js</tspan>
+<tspan x="10" y="426"> 25.  2017-04-20 17:20:39 +0000     2693 bytes  lib/combinator/promises.js</tspan>
+<tspan x="10" y="442"> 26.  2017-04-20 17:20:39 +0000     3697 bytes  lib/combinator/sample.js</tspan>
+<tspan x="10" y="458"> 27.  2017-04-20 17:20:39 +0000     4981 bytes  lib/combinator/slice.js</tspan>
+<tspan x="10" y="474"> 28.  2017-04-20 17:20:39 +0000     3400 bytes  lib/combinator/switch.js</tspan>
+<tspan x="10" y="490"> 29.  2017-04-20 17:20:39 +0000      284 bytes  lib/combinator/thru.js</tspan>
+<tspan x="10" y="506"> 30.  2017-04-20 17:20:39 +0000     3581 bytes  lib/combinator/timeslice.js</tspan>
+<tspan x="10" y="522"> 31.  2017-04-20 17:20:39 +0000     1059 bytes  lib/combinator/timestamp.js</tspan>
+<tspan x="10" y="538"> 32.  2017-04-20 17:20:39 +0000     3347 bytes  lib/combinator/transduce.js</tspan>
+<tspan x="10" y="554"> 33.  2017-04-20 17:20:39 +0000     2005 bytes  lib/combinator/transform.js</tspan>
+<tspan x="10" y="570"> 34.  2017-04-20 17:20:39 +0000     4370 bytes  lib/combinator/zip.js</tspan>
+<tspan x="10" y="586"> 35.  2017-04-20 17:20:39 +0000      612 bytes  lib/disposable/Disposable.js</tspan>
+<tspan x="10" y="602"> 36.  2017-04-20 17:20:39 +0000      986 bytes  lib/disposable/SettableDisposable.js</tspan>
+<tspan x="10" y="618"> 37.  2017-04-20 17:20:39 +0000     3921 bytes  lib/disposable/dispose.js</tspan>
+<tspan x="10" y="634"> 38.  2017-04-20 17:20:39 +0000      320 bytes  lib/fatalError.js</tspan>
+<tspan x="10" y="650"> 39.  2017-04-20 17:20:39 +0000     1385 bytes  lib/fusion/Filter.js</tspan>
+<tspan x="10" y="666"> 40.  2017-04-20 17:20:39 +0000      988 bytes  lib/fusion/FilterMap.js</tspan>
+<tspan x="10" y="682"> 41.  2017-04-20 17:20:39 +0000     2007 bytes  lib/fusion/Map.js</tspan>
+<tspan x="10" y="698"> 42.  2017-04-20 17:20:39 +0000    27281 bytes  lib/index.js</tspan>
+<tspan x="10" y="714"> 43.  2017-04-20 17:20:39 +0000      683 bytes  lib/invoke.js</tspan>
+<tspan x="10" y="730"> 44.  2017-04-20 17:20:39 +0000      915 bytes  lib/iterable.js</tspan>
+<tspan x="10" y="746"> 45.  2017-04-20 17:20:39 +0000     2028 bytes  lib/observable/fromObservable.js</tspan>
+<tspan x="10" y="762"> 46.  2017-04-20 17:20:39 +0000      868 bytes  lib/observable/getObservable.js</tspan>
+<tspan x="10" y="778"> 47.  2017-04-20 17:20:39 +0000     2645 bytes  lib/observable/subscribe.js</tspan>
+<tspan x="10" y="794"> 48.  2017-04-20 17:20:39 +0000     2006 bytes  lib/runSource.js</tspan>
+<tspan x="10" y="810"> 49.  2017-04-20 17:20:39 +0000      936 bytes  lib/scheduler/ClockTimer.js</tspan>
+<tspan x="10" y="826"> 50.  2017-04-20 17:20:39 +0000     1364 bytes  lib/scheduler/PropagateTask.js</tspan>
+<tspan x="10" y="842"> 51.  2017-04-20 17:20:39 +0000      710 bytes  lib/scheduler/ScheduledTask.js</tspan>
+<tspan x="10" y="858"> 52.  2017-04-20 17:20:39 +0000     2648 bytes  lib/scheduler/Scheduler.js</tspan>
+<tspan x="10" y="874"> 53.  2017-04-20 17:20:39 +0000     3247 bytes  lib/scheduler/Timeline.js</tspan>
+<tspan x="10" y="890"> 54.  2017-04-20 17:20:39 +0000      741 bytes  lib/scheduler/defaultScheduler.js</tspan>
+<tspan x="10" y="906"> 55.  2017-04-20 17:20:39 +0000     1946 bytes  lib/sink/DeferredSink.js</tspan>
+<tspan x="10" y="922"> 56.  2017-04-20 17:20:39 +0000      889 bytes  lib/sink/IndexSink.js</tspan>
+<tspan x="10" y="938"> 57.  2017-04-20 17:20:39 +0000      627 bytes  lib/sink/Pipe.js</tspan>
+<tspan x="10" y="954"> 58.  2017-04-20 17:20:39 +0000      732 bytes  lib/sink/SafeSink.js</tspan>
+<tspan x="10" y="970"> 59.  2017-04-20 17:20:39 +0000     2084 bytes  lib/source/EventEmitterSource.js</tspan>
+<tspan x="10" y="986"> 60.  2017-04-20 17:20:39 +0000     1293 bytes  lib/source/EventTargetSource.js</tspan>
+<tspan x="10" y="1002"> 61.  2017-04-20 17:20:39 +0000     2058 bytes  lib/source/core.js</tspan>
+<tspan x="10" y="1018"> 62.  2017-04-20 17:20:39 +0000     1318 bytes  lib/source/from.js</tspan>
+<tspan x="10" y="1034"> 63.  2017-04-20 17:20:39 +0000     1031 bytes  lib/source/fromArray.js</tspan>
+<tspan x="10" y="1050"> 64.  2017-04-20 17:20:39 +0000     1757 bytes  lib/source/fromEvent.js</tspan>
+<tspan x="10" y="1066"> 65.  2017-04-20 17:20:39 +0000     1133 bytes  lib/source/fromIterable.js</tspan>
+<tspan x="10" y="1082"> 66.  2017-04-20 17:20:39 +0000     2201 bytes  lib/source/generate.js</tspan>
+<tspan x="10" y="1098"> 67.  2017-04-20 17:20:39 +0000     1716 bytes  lib/source/iterate.js</tspan>
+<tspan x="10" y="1114"> 68.  2017-04-20 17:20:39 +0000     1168 bytes  lib/source/periodic.js</tspan>
+<tspan x="10" y="1130"> 69.  2017-04-20 17:20:39 +0000      477 bytes  lib/source/tryEvent.js</tspan>
+<tspan x="10" y="1146"> 70.  2017-04-20 17:20:39 +0000     2105 bytes  lib/source/unfold.js</tspan>
+<tspan x="10" y="1162"> 71.  2017-04-20 17:20:39 +0000      440 bytes  lib/task.js</tspan>
+<tspan x="10" y="1178"> 72.  2017-04-20 17:20:39 +0000     1604 bytes  package.json</tspan>
+<tspan x="10" y="1194"> 73.  2017-04-20 17:20:39 +0000     1570 bytes  src/LinkedList.js</tspan>
+<tspan x="10" y="1210"> 74.  2017-04-20 17:20:39 +0000      246 bytes  src/Promise.js</tspan>
+<tspan x="10" y="1226"> 75.  2017-04-20 17:20:39 +0000     1368 bytes  src/Queue.js</tspan>
+<tspan x="10" y="1242"> 76.  2017-04-20 17:20:39 +0000      202 bytes  src/Stream.js</tspan>
+<tspan x="10" y="1258"> 77.  2017-04-20 17:20:39 +0000     2479 bytes  src/combinator/accumulate.js</tspan>
+<tspan x="10" y="1274"> 78.  2017-04-20 17:20:39 +0000      743 bytes  src/combinator/applicative.js</tspan>
+<tspan x="10" y="1290"> 79.  2017-04-20 17:20:39 +0000      722 bytes  src/combinator/build.js</tspan>
+<tspan x="10" y="1306"> 80.  2017-04-20 17:20:39 +0000     3089 bytes  src/combinator/combine.js</tspan>
+<tspan x="10" y="1322"> 81.  2017-04-20 17:20:39 +0000      756 bytes  src/combinator/concatMap.js</tspan>
+<tspan x="10" y="1338"> 82.  2017-04-20 17:20:39 +0000     1504 bytes  src/combinator/continueWith.js</tspan>
+<tspan x="10" y="1354"> 83.  2017-04-20 17:20:39 +0000     1401 bytes  src/combinator/delay.js</tspan>
+<tspan x="10" y="1370"> 84.  2017-04-20 17:20:39 +0000     2396 bytes  src/combinator/errors.js</tspan>
+<tspan x="10" y="1386"> 85.  2017-04-20 17:20:39 +0000     1989 bytes  src/combinator/filter.js</tspan>
+<tspan x="10" y="1402"> 86.  2017-04-20 17:20:39 +0000      987 bytes  src/combinator/flatMap.js</tspan>
+<tspan x="10" y="1418"> 87.  2017-04-20 17:20:39 +0000     3123 bytes  src/combinator/limit.js</tspan>
+<tspan x="10" y="1434"> 88.  2017-04-20 17:20:39 +0000     1553 bytes  src/combinator/loop.js</tspan>
+<tspan x="10" y="1450"> 89.  2017-04-20 17:20:39 +0000     2676 bytes  src/combinator/merge.js</tspan>
+<tspan x="10" y="1466"> 90.  2017-04-20 17:20:39 +0000     3053 bytes  src/combinator/mergeConcurrently.js</tspan>
+<tspan x="10" y="1482"> 91.  2017-04-20 17:20:39 +0000      993 bytes  src/combinator/observe.js</tspan>
+<tspan x="10" y="1498"> 92.  2017-04-20 17:20:39 +0000     2276 bytes  src/combinator/promises.js</tspan>
+<tspan x="10" y="1514"> 93.  2017-04-20 17:20:39 +0000     2795 bytes  src/combinator/sample.js</tspan>
+<tspan x="10" y="1530"> 94.  2017-04-20 17:20:39 +0000     4037 bytes  src/combinator/slice.js</tspan>
+<tspan x="10" y="1546"> 95.  2017-04-20 17:20:39 +0000     2733 bytes  src/combinator/switch.js</tspan>
+<tspan x="10" y="1562"> 96.  2017-04-20 17:20:39 +0000      191 bytes  src/combinator/thru.js</tspan>
+<tspan x="10" y="1578"> 97.  2017-04-20 17:20:39 +0000     2779 bytes  src/combinator/timeslice.js</tspan>
+<tspan x="10" y="1594"> 98.  2017-04-20 17:20:39 +0000      717 bytes  src/combinator/timestamp.js</tspan>
+<tspan x="10" y="1610"> 99.  2017-04-20 17:20:39 +0000     3064 bytes  src/combinator/transduce.js</tspan>
+<tspan x="10" y="1626">100.  2017-04-20 17:20:39 +0000     1567 bytes  src/combinator/transform.js</tspan>
+<tspan x="10" y="1642">101.  2017-04-20 17:20:39 +0000     3298 bytes  src/combinator/zip.js</tspan>
+<tspan x="10" y="1658">102.  2017-04-20 17:20:39 +0000      515 bytes  src/disposable/Disposable.js</tspan>
+<tspan x="10" y="1674">103.  2017-04-20 17:20:39 +0000      870 bytes  src/disposable/SettableDisposable.js</tspan>
+<tspan x="10" y="1690">104.  2017-04-20 17:20:39 +0000     3097 bytes  src/disposable/dispose.js</tspan>
+<tspan x="10" y="1706">105.  2017-04-20 17:20:39 +0000      225 bytes  src/fatalError.js</tspan>
+<tspan x="10" y="1722">106.  2017-04-20 17:20:39 +0000     1115 bytes  src/fusion/Filter.js</tspan>
+<tspan x="10" y="1738">107.  2017-04-20 17:20:39 +0000      716 bytes  src/fusion/FilterMap.js</tspan>
+<tspan x="10" y="1754">108.  2017-04-20 17:20:39 +0000     1276 bytes  src/fusion/Map.js</tspan>
+<tspan x="10" y="1770">109.  2017-04-20 17:20:39 +0000    22065 bytes  src/index.js</tspan>
+<tspan x="10" y="1786">110.  2017-04-20 17:20:39 +0000      550 bytes  src/invoke.js</tspan>
+<tspan x="10" y="1802">111.  2017-04-20 17:20:39 +0000      750 bytes  src/iterable.js</tspan>
+<tspan x="10" y="1818">112.  2017-04-20 17:20:39 +0000     1320 bytes  src/observable/fromObservable.js</tspan>
+<tspan x="10" y="1834">113.  2017-04-20 17:20:39 +0000      582 bytes  src/observable/getObservable.js</tspan>
+<tspan x="10" y="1850">114.  2017-04-20 17:20:39 +0000     1874 bytes  src/observable/subscribe.js</tspan>
+<tspan x="10" y="1866">115.  2017-04-20 17:20:39 +0000     1326 bytes  src/runSource.js</tspan>
+<tspan x="10" y="1882">116.  2017-04-20 17:20:39 +0000      818 bytes  src/scheduler/ClockTimer.js</tspan>
+<tspan x="10" y="1898">117.  2017-04-20 17:20:39 +0000     1066 bytes  src/scheduler/PropagateTask.js</tspan>
+<tspan x="10" y="1914">118.  2017-04-20 17:20:39 +0000      602 bytes  src/scheduler/ScheduledTask.js</tspan>
+<tspan x="10" y="1930">119.  2017-04-20 17:20:39 +0000     2326 bytes  src/scheduler/Scheduler.js</tspan>
+<tspan x="10" y="1946">120.  2017-04-20 17:20:39 +0000     2734 bytes  src/scheduler/Timeline.js</tspan>
+<tspan x="10" y="1962">121.  2017-04-20 17:20:39 +0000      348 bytes  src/scheduler/defaultScheduler.js</tspan>
+<tspan x="10" y="1978">122.  2017-04-20 17:20:39 +0000     1766 bytes  src/sink/DeferredSink.js</tspan>
+<tspan x="10" y="1994">123.  2017-04-20 17:20:39 +0000      627 bytes  src/sink/IndexSink.js</tspan>
+<tspan x="10" y="2010">124.  2017-04-20 17:20:39 +0000      533 bytes  src/sink/Pipe.js</tspan>
+<tspan x="10" y="2026">125.  2017-04-20 17:20:39 +0000      626 bytes  src/sink/SafeSink.js</tspan>
+<tspan x="10" y="2042">126.  2017-04-20 17:20:39 +0000     1384 bytes  src/source/EventEmitterSource.js</tspan>
+<tspan x="10" y="2058">127.  2017-04-20 17:20:39 +0000      811 bytes  src/source/EventTargetSource.js</tspan>
+<tspan x="10" y="2074">128.  2017-04-20 17:20:39 +0000     1332 bytes  src/source/core.js</tspan>
+<tspan x="10" y="2090">129.  2017-04-20 17:20:39 +0000      884 bytes  src/source/from.js</tspan>
+<tspan x="10" y="2106">130.  2017-04-20 17:20:39 +0000      684 bytes  src/source/fromArray.js</tspan>
+<tspan x="10" y="2122">131.  2017-04-20 17:20:39 +0000     1310 bytes  src/source/fromEvent.js</tspan>
+<tspan x="10" y="2138">132.  2017-04-20 17:20:39 +0000      765 bytes  src/source/fromIterable.js</tspan>
+<tspan x="10" y="2154">133.  2017-04-20 17:20:39 +0000     1598 bytes  src/source/generate.js</tspan>
+<tspan x="10" y="2170">134.  2017-04-20 17:20:39 +0000     1441 bytes  src/source/iterate.js</tspan>
+<tspan x="10" y="2186">135.  2017-04-20 17:20:39 +0000      823 bytes  src/source/periodic.js</tspan>
+<tspan x="10" y="2202">136.  2017-04-20 17:20:39 +0000      356 bytes  src/source/tryEvent.js</tspan>
+<tspan x="10" y="2218">137.  2017-04-20 17:20:39 +0000     1831 bytes  src/source/unfold.js</tspan>
+<tspan x="10" y="2234">138.  2017-04-20 17:20:39 +0000      324 bytes  src/task.js</tspan>
+<tspan x="10" y="2250">139.  2017-04-20 17:20:39 +0000    12848 bytes  type-definitions/most.d.ts</tspan>
 </text>
 </svg>
